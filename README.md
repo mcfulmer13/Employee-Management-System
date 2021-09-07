@@ -1,3 +1,4 @@
+
 # Employee-Management-System
 
 
@@ -38,6 +39,7 @@ an app that manages your employee database!
 
 [Demo](https://drive.google.com/file/d/1BCxLTDQkfM3CiQbJcT4YyHRgd80PrXOY/view?usp=sharing)
 
+<img width="463" alt="demo" src="https://user-images.githubusercontent.com/85579055/132280190-d02fd18e-f5bb-4613-8604-4ddfe4fbc2c7.png">
 
 
 
